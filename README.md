@@ -1,1 +1,25 @@
-# DIO---Bootcamp-Impulso-Fullstack-Developer
+# Digital Innovation One---Bootcamp-Impulso-Fullstack-Developer
+
+- Linux: introdução ao sistema operacional
+- Shell script - Manipulando Arquivos
+- Introdução ao Git e GitHub
+- Lógica de programação essencial
+- Aprenda o que são Estruturas de Dados e Algoritmos
+- Aprendendo o que é Ruby
+- Ruby: introdução a orientação a objetos
+- Solucionando problemas básicos em Ruby
+- Da Arquitetura ao deploy com Ruby
+- Programação para internet com HTML5 e CSS3
+- Conceitos de responsividade e experiência do usuário
+- Programação para internet com JavaScript
+- JavaScript ES6 essencial
+- Desenvolvimento avançado com JavaScript ES6
+- Como resolver seus primeiros desafios de código
+- Soluções de problemas básicos em JavaScript
+- Introdução ao ReactJS
+- Práticas avançadas em projetos com ReactJS
+- Desenvolvimento de aplicações para internet com ReactJS
+- Crie um gerenciador de esferas do Dragon BallZ usando ReactJS, Jest, React Testing Library e Cypress
+- Conceitos e melhores práticas com bancos de dados PostgreSQL
+- MindApp - Desenvolvendo uma Cloud Tags com Ruby
+- Praticando com desafios intermediários em Ruby
