@@ -1,5 +1,6 @@
-:spiral_calendar: Atualizado em 27 de Março de 2021 :heart:
+29/03/2021
 
+Facilitado por:https://github.com/rdeconti 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 # Projeto Digital Innovation One: Bootcamp Impulso FullStack Developer 
